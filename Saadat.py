@@ -504,7 +504,7 @@ class Main:
 				print(logo)
 				print("     \033[0;93m   Premium Mode  Activated")
 				print("\n\033[0;94m [+] BRUTE HAS BEEN STARTED")
-				print(" \033[0;96m[+] Note : 50% CP Account'S Open Just Now")
+				print(" \033[0;96m[+] Note : 70% CP Account'S Open Just Now")
 				print(" [!] 𝗜𝗙 𝗡𝗢 𝗥𝗘𝗦𝗨𝗟𝗧𝗦 𝗨𝗦𝗘 𝗔𝗜𝗥𝗢𝗣𝗟𝗔𝗡𝗘 𝗠𝗢𝗗E UNTILL DEATH")
 				print("\033[0;94m------------------------------------------------")
 				print("\n")
